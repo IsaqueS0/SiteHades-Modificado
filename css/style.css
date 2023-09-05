@@ -1,0 +1,179 @@
+@font-face {
+    font-family:'titulos';
+    src:url("./assets/fonts/BacasimeAntique-Regular.ttf");
+}
+header{
+    font-family: titulos;
+    background-color: black;
+    color: crimson;
+    width: 100vw;
+    height: 90px;
+    margin-top: 0vw;
+}
+header h1{
+    font-family: titulos;
+    display: flex;
+    font-size: 50px;
+    margin-top: 0px;
+}
+#esquerdo{
+    background-color: #561D1D;
+    color: darksalmon;
+    display: flex;
+    flex-direction: column;
+    width: 25vw;
+    height: 2650px; 
+}
+#esquerdo h2{
+    font-size: 30px;
+    display: flex;
+    margin-left: 6vw;
+    margin-top: 40px;
+}
+#tudo{
+    display: flex;
+}
+main{
+    background-color: #310909;
+    width: 50vw;
+    height: 2650px;
+    color: white;
+    font-size: 18px;
+}
+#direitacima{
+    background-color: #9A2E2E;
+    width: 25vw;
+    height: 45vw;
+}
+#direitacima h3{
+    font-size: 35px;
+    margin-left: 2vw;
+}
+#imagemfoco{
+    width: 50vw;
+    height: 45vw;
+}
+#esquerdo p{
+    margin-left: 2vw;
+    margin-right: 2vw;
+    font-size: 18px;
+    color: white;
+}
+div p#link1{
+    color: #F0C3C3;;
+}
+div p#link2{
+    color: #F0C3C3;;
+}
+div p#link3{
+    color: #F0C3C3;;
+}
+div p#link4{
+    color: #F0C3C3;;
+}
+div p#link5{
+    color: #F0C3C3;;
+}
+div p#link6{
+    color: #F0C3C3;;
+}
+#direitacima p#p1{
+    color: white;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    font-size: 18px;
+}
+#imagemdireita{
+    margin-left: 4vw;
+    margin-right: 4vw;
+    width: 15vw;
+}
+#imagemlogo{
+    margin-left: 2vw;
+}
+header div#cimaa{
+    display: flex;
+}
+#direitabaixo{
+    width: 25vw;
+    background-color: #9A2E2E;
+    height: 1786px;
+}
+#direitabaixo h4{
+    font-size: 35px;
+    margin-left: 2vw;
+}
+#direitabaixo p{
+    font-size: 18px;
+    color: white;
+    margin-left: 1vw;
+    margin-right: 2vw;
+}
+#duasdireitas{
+    display: flex;
+    flex-direction: column;
+}
+#imagemesquerda{
+    margin-left: 4vw;
+    margin-right: 4vw;
+    width: 15vw;
+    margin-top: 10vw;
+}
+h2#indica{
+    color: #FA6565;
+    font-size: 30px;
+    margin-left: 18.5vw;
+    margin-right: 18.5vw;
+}
+h2#naogosta{
+    color: #FA6565;
+    font-size: 30px;
+    margin-left: 11.5vw;
+    margin-right: 11.5vw;
+}
+h2#HOBBIES{
+    color: #FA6565;
+    font-size: 30px;
+    margin-left: 19vw;
+    margin-right: 19vw;
+}
+h2#jogava{
+    color: #FA6565;
+    font-size: 30px;
+    margin-left: 13vw;
+    margin-right: 13vw;
+}
+h2#relac{
+    color: #FA6565;
+    font-size: 30px;
+    margin-left: 18vw;
+    margin-right: 18vw;
+}
+#fotocria{
+    border-radius: 80px;
+    height: 5vw;
+    width: 5vw;
+}
+footer#criajunto{
+    display: flex;
+}
+p#contato{
+    font-size: 24px;
+}
+h2#cria{
+    color: #FA6565;
+    font-size: 30px;
+    margin-left: 19vw;
+    margin-right: 19vw;
+}
+a{
+    font-family: titulos;
+    text-decoration: none;
+    color: #FA6565;
+    font-size: 25px;
+}
+a:hover{
+    background-color: black;
+    transition: 0.5s;
+    opacity: 0.7;
+}
